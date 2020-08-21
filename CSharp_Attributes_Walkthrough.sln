@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_Attributes_Walkthrough", "CSharp_Attributes_Walkthrough\CSharp_Attributes_Walkthrough.csproj", "{91F2AA98-605F-4FE8-9DB4-52563B340F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing_Csharp_Attributes_101", "Implementing_Csharp_Attributes_101\Implementing_Csharp_Attributes_101.csproj", "{738CEAA3-853B-44F0-9379-46581D1E74C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F2AA98-605F-4FE8-9DB4-52563B340F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F2AA98-605F-4FE8-9DB4-52563B340F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F2AA98-605F-4FE8-9DB4-52563B340F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F2AA98-605F-4FE8-9DB4-52563B340F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738CEAA3-853B-44F0-9379-46581D1E74C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738CEAA3-853B-44F0-9379-46581D1E74C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738CEAA3-853B-44F0-9379-46581D1E74C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738CEAA3-853B-44F0-9379-46581D1E74C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF6F6698-DFEF-4AE1-B33F-86C7591B264A}
+	EndGlobalSection
+EndGlobal
